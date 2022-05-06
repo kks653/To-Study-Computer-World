@@ -1,5 +1,5 @@
 # To Study Computer World
-![GitHub](https://img.shields.io/github/license/kks653/To-Study-Computer-World?style=flat-square)
+<a src="https://github.com/kks653/To-Study-Computer-World/blob/main/LICENSE.md">![GitHub](https://img.shields.io/github/license/kks653/To-Study-Computer-World?style=flat-square)</a>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks653%2FTo-Study-Computer-World&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 <br>
 ![GitHub](https://img.shields.io/github/watchers/kks653/To-Study-Computer-World?style=social)
