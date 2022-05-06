@@ -7,7 +7,7 @@
 ## 컴퓨터 세상을 공부하는 개발자 백과사전 :books:
 <br><br>
 ---
-## Computer Science
+## :desktop_computer: Computer Science
 - <b>Computer Architecture</b>
     - 블라블라
     - 블라블라블라
