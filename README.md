@@ -4,15 +4,26 @@
 <br>
 ![GitHub](https://img.shields.io/github/watchers/kks653/To-Study-Computer-World?style=social)
 <br><br><br>
-
 ## 컴퓨터 세상을 공부하는 개발자 백과사전 :books:
----
 <br><br>
-## 윈도우 시스템 프로그래밍
-### Index
-- 블라블라
-- 블라블라블라
-- 블라블라블라블라
+---
+## Computer Science
+- Computer Architecture
+    - 블라블라
+    - 블라블라블라
+    - 블라블라블라블라
+<br><br>
+- Windows System Programming 
+    - 블라블라
+    - 블라블라블라
+    - 블라블라블라블라
+<br><br>
+- Introduction to Database
+    - 블라블라
+    - 블라블라블라
+    - 블라블라블라블라
+<br><br>
+
 
 <details>
 <summary>접기/펼치기 버튼</summary>
