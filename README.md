@@ -8,17 +8,17 @@
 <br><br>
 ---
 ## Computer Science
-- Computer Architecture
+- <b>Computer Architecture</b>
     - 블라블라
     - 블라블라블라
     - 블라블라블라블라
 <br><br>
-- Windows System Programming 
+- <b>Windows System Programming</b>
     - 블라블라
     - 블라블라블라
     - 블라블라블라블라
 <br><br>
-- Introduction to Database
+- <b>Introduction to Database</b>
     - 블라블라
     - 블라블라블라
     - 블라블라블라블라
