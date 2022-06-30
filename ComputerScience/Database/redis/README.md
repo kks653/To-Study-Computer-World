@@ -1,1 +1,1 @@
-# :calling: redis
+# :diamonds: redis
