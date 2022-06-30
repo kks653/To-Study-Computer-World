@@ -4,27 +4,36 @@
 <br>
 ![GitHub](https://img.shields.io/github/watchers/kks653/To-Study-Computer-World?style=social)
 <br><br><br>
-## 컴퓨터 세상을 공부하는 개발자 백과사전 :books:
+## :books: 컴퓨터 세상을 공부하는 개발자 백과사전
 <br><br>
+
 ---
+
 ## :desktop_computer: Computer Science
+### <b>[Network](ComputerScience/Network/README.md)</b>
+- [TCP/IP 소켓 프로그래밍](ComputerScience/Network/TCPIP/README.md)
+
+<br>
+
+### <b>[Operating System](ComputerScience\OperatingSystem\README.md)</b>
+- [윈도우즈 시스템 프로그래밍(작업중..)](ComputerScience\OperatingSystem\WindowsSystemProgramming\README.md)
+
+
+<!--
 - <b>Computer Architecture</b>
     - 블라블라
     - 블라블라블라
     - 블라블라블라블라
+
 <br><br>
-- <b>Windows System Programming</b>
+- <b>Database</b>
     - 블라블라
     - 블라블라블라
     - 블라블라블라블라
 <br><br>
-- <b>Introduction to Database</b>
-    - 블라블라
-    - 블라블라블라
-    - 블라블라블라블라
+-->
+
 <br><br>
-
-
 <details>
 <summary>접기/펼치기 버튼</summary>
 Hello World
