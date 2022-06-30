@@ -16,7 +16,7 @@
 <br>
 
 ### <b>[Operating System](ComputerScience\OperatingSystem\README.md)</b>
-- [윈도우즈 시스템 프로그래밍(작업중..)](ComputerScience\OperatingSystem\WindowsSystemProgramming\README.md)
+- [윈도우즈 시스템 프로그래밍(작업중..)](ComputerScience/OperatingSystem/WindowsSystemProgramming/README.md)
 
 
 <!--

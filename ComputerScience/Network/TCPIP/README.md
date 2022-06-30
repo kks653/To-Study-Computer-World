@@ -4,4 +4,4 @@
 
 ---
 ### :bookmark_tabs: References
-[윤성우(2009). 윤성우의 열혈 TCP/IP 소켓 프로그래밍. 서울: 오렌지미디어.](http://www.yes24.com/product/goods/3630373)
+<a href="http://www.yes24.com/product/goods/3630373" target="_blank">윤성우(2009). 윤성우의 열혈 TCP/IP 소켓 프로그래밍. 서울: 오렌지미디어.</a>
