@@ -15,7 +15,7 @@
 
 ### Message Queue란?
 
-<p align="center"><img src="resources/Untitled.png" height="200" width="200"></p>
+<p align="center"><img src="resources/Untitled.png" height="250" width="300"></p>
 
 간단하게 말해서, 메시지를 보낼 수 있는 이름 있는 대상이다. 메시지가 queue에 쌓이는 데 해당 queue가 필요한 프로그램에 의해 쓰여질 때까지 쌓이게 된다.
 
