@@ -15,7 +15,7 @@
 
 ### Message Queue란?
 
-<p style="text-align:center;"><img src="resources/Untitled.png" height="200" width="200"></p>
+<p align="center"><img src="resources/Untitled.png" height="200" width="200"></p>
 
 간단하게 말해서, 메시지를 보낼 수 있는 이름 있는 대상이다. 메시지가 queue에 쌓이는 데 해당 queue가 필요한 프로그램에 의해 쓰여질 때까지 쌓이게 된다.
 
@@ -26,17 +26,17 @@ Queue는 queue manager에 안에, 의해 관리된다. Queue는 컴퓨터 메모
 > **메시징에서 쓰이는 일반적인 용어:**
 > 
 
-<p style="text-align:center;"><img src="resources/Untitled 1.png"></p>
+<p align="center"><img src="resources/Untitled 1.png"></p>
 
-<p style="text-align:center;"><img src="resources/Untitled 2.png"></p>
+<p align="center"><img src="resources/Untitled 2.png"></p>
 
 - Producing: `발신(sending)`과 다를 바 없다. 메시지들을 보내는 프로그램을 일컬어 **Producer**라고 한다.
 
-<p style="text-align:center;"><img src="resources/Untitled 3.png" ></p>
+<p align="center"><img src="resources/Untitled 3.png" ></p>
 
 - Queue: 메시지 브로커에 상주하고 있는 `우체통`과 같은 역할의 이름이다. 수많은 producer들이 하나의 queue에 메시지들을 보낼 수 있고, 수많은 consumer들이 하나의 queue에서 데이터를 받으려고 시도할 수 있다.
 
-<p style="text-align:center;"><img src="resources/Untitled 4.png"></p>
+<p align="center"><img src="resources/Untitled 4.png"></p>
 
 - Consuming: `수신(receiving)`과 비슷한 의미이다. **Consumer**라고 함은, 메시지들을 받으려고 주로 기다리는 프로그램을 말한다.
 

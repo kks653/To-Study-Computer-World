@@ -4,9 +4,9 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 
 <br>
 
-<p style="text-align:center;"><img src="resources/1.png" width=550></p>
+<p align="center"><img src="resources/1.png" width=550></p>
 
-<figure><p style="text-align:center;"><img src="resources/2.png"><figcaption>"P" is our producer and "C" is our consumer.</figcaption></p></figure>
+<figure><p align="center"><img src="resources/2.png"><figcaption>"P" is our producer and "C" is our consumer.</figcaption></p></figure>
 
 가운데 빨간색 박스가 queue인데 Consumer 대신에 RabbitMQ와 같은 broker(브로커)가 킵하고 있는 메시지 버퍼의 이름(여기선, “hello”)이다. 
 
@@ -20,7 +20,7 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 
 ### **Work(Task) Queues**
 
-<p style="text-align:center;"><img src="resources/3.png"></p>
+<p align="center"><img src="resources/3.png"></p>
 
 Work(Task) Queues는 여러 workers를 둠으로써 시간이 걸리는 작업들을 분산시킬 수 있다. Task를 스케줄하여 나중에 완료시킬 수 있다. Task를 메시지로 캡슐화하여 queue로 보낸다. 
 
@@ -28,7 +28,7 @@ Work(Task) Queues는 여러 workers를 둠으로써 시간이 걸리는 작업�
 💡 이 개념은 특히, 짧은 HTTP 요청 윈도우동안 복잡한 task를 처리할 수 없는 웹 애플리케이션에서 유용하다.
 </aside>
 
-<br>
+<br><br>
 
 > **라운드-로빈 배정(Round-robin dispatching)**
 > 
@@ -53,7 +53,7 @@ Consumer가 메시지를 가져가는 처리 작업 도중에 죽거나 할 때,
 > **Exchanges**
 > 
 
-<figure><p style="text-align:center;"><img src="resources/4.png"><figcaption>“X” is an exchange.</figcaption></p></figure>
+<figure><p align="center"><img src="resources/4.png"><figcaption>“X” is an exchange.</figcaption></p></figure>
 
 RabbitMQ의 메시징 모델에서는 producer가 절대로 어떠한 메시지든 queue에 직접적으로 보내지 않는다. 심지어 producer는 보낸 메시지가 어느 queue에 쌓이는 지도 모른다.
 
@@ -61,7 +61,7 @@ Producer는 대신 exchange에게만 메시지를 전송한다. Exchange의 한 
 
 - **Direct Exchange**
 
-<p style="text-align:center;"><img src="resources/5.png"></p>
+<p align="center"><img src="resources/5.png"></p>
 
 Message의 Routing Key와 정확히 일치하는 Binding된 Queue로 전달(Routing)한다. (1:1)
 
