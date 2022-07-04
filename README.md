@@ -12,6 +12,7 @@
 ## :desktop_computer: Computer Science
 ### <b>[Network](ComputerScience/Network/README.md)</b>
 - [TCP/IP 소켓 프로그래밍](ComputerScience/Network/TCPIP/README.md)
+- [Message Queuing](ComputerScience/Network/MQ/README.md)
 
 ### <b>[Operating System](ComputerScience/OperatingSystem/README.md)</b>
 - [윈도우즈 시스템 프로그래밍(TBU)](ComputerScience/OperatingSystem/WindowsSystemProgramming/README.md)
