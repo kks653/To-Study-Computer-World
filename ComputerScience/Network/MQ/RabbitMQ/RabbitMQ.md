@@ -6,7 +6,8 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 
 <p align="center"><img src="resources/1.png" width=550></p>
 
-<figure><p align="center"><img src="resources/2.png"><figcaption align="center"><b>"P" is our producer and "C" is our consumer.</figcaption></p></figure>
+<p align="center"><img src="resources/2.png">
+<br><em><b>"P" is our producer and "C" is our consumer.</b></em></p>
 
 가운데 빨간색 박스가 queue인데 Consumer 대신에 RabbitMQ와 같은 broker(브로커)가 킵하고 있는 메시지 버퍼의 이름(여기선, “hello”)이다. 
 
@@ -53,7 +54,7 @@ Consumer가 메시지를 가져가는 처리 작업 도중에 죽거나 할 때,
 > **Exchanges**
 > 
 
-<figure><p align="center"><img src="resources/4.png"><figcaption align="center"><b>“X” is an exchange.</figcaption></p></figure>
+<p align="center"><img src="resources/4.png"><br><em><b>“X” is an exchange.</b></p>
 
 RabbitMQ의 메시징 모델에서는 producer가 절대로 어떠한 메시지든 queue에 직접적으로 보내지 않는다. 심지어 producer는 보낸 메시지가 어느 queue에 쌓이는 지도 모른다.
 
