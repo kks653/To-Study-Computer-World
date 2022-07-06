@@ -1,4 +1,4 @@
-# :oil_drum: **redis** 
+# :oil_drum: **Redis 개요** 
 
 `Redis`는 C언어로 작성된 Key-Value 기반 In-Memory 데이터 구조 저장 공간으로 속도가 빠르고 데이터베이스, 캐시, 메시지 브로커, 스트리밍 엔진과 같은 역할로 쓰일 수 있다.
 
@@ -27,7 +27,8 @@ Redis는 replication, Lua scriptiong, LRU eviction, transactions, 그리고 다�
 그래서 동일한 key에 대해 작업을 수행하는 여러 개의 프로세스가 경쟁 상태(Race Condition)에 놓이지 않는다.
 
 ```
-컴퓨터 과학에서 원자 조작(Atomic Operation, 原子操作)이라 함은 결합하여 외부에서는 하나의 조작으로 보이는 조작의 집합을 말한다. 원자 조작의 결과는 성공이나 실패 중의 하나이다.
+컴퓨터 과학에서 원자 조작(Atomic Operation, 原子操作)이라 함은 결합하여 외부에서는 하나의 조작으로 보이는 조작의 집합을 말한다.
+원자 조작의 결과는 성공이나 실패 중의 하나이다.
 
 - Wikipedia; Reference [2]
 ```
