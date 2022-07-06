@@ -1,12 +1,12 @@
-# :oil_drum: **Redis 개요** 
+# :oil_drum: **Redis 개론** 
 
 `Redis`는 C언어로 작성된 Key-Value 기반 In-Memory 데이터 구조 저장 공간으로 속도가 빠르고 데이터베이스, 캐시, 메시지 브로커, 스트리밍 엔진과 같은 역할로 쓰일 수 있다.
 
-리눅스, *BSD, Mac OS X와 같은 거의 모든 POSIX 시스템에서 외부적인 의존없이 작동한다. Redis는 거의 리눅스와 Os X에서 개발 및 테스트 되었고 리눅스에 배포하는 것을 추천한다고 한다. 공식적인 윈도우 빌드 제공은 없다.
+리눅스, *BSD, Mac OS X와 같은 거의 모든 POSIX 시스템에서 외부적인 의존없이 작동한다. Redis는 거의 리눅스와 OS X에서 개발 및 테스트 되었고 리눅스에 배포하는 것을 추천한다고 한다. 공식적인 윈도우 빌드 제공은 없다.
 
 <br>
 
-## 제공하는 자료 구조
+## 지원하는 자료 구조
 
 - Strings
 - Hashes
@@ -34,6 +34,10 @@ Redis는 replication, Lua scriptiong, LRU eviction, transactions, 그리고 다�
 ```
 
 
+Redis는 또한 다음을 포함하고 있다:
+- Pub/Sub(Public/Subscribe 메시징 패러다임) -> 작성해둔 [Message Queue의 문서](../../Network/MQ/MessageQueue/MessageQueue.md) 내용을 참조하면 좋다.
+- Keys with a limited time to live(TTL, 컴퓨터나 네트워크에서 데이터의 유효 기간)
+- 자동 시스템 대체 작동 기능(Redis Sentinel 기능 중 하나)
 
 <br>
 

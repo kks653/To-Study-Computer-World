@@ -1,2 +1,2 @@
 # :diamonds: redis
-- [Redis 개요](introduction.md)
+- [Redis 개론](introduction.md)
