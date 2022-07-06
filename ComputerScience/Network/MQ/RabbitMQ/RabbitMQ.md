@@ -28,7 +28,7 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
  예를 들어 Windows 프런트엔드 애플리케이션은 Linux 백엔드 서버에서 데이터를 송수신하지만, 애플리케이션 사용자는 그 차이를 인식하지 못합니다.
 
 - AWS; Refrence [2]
-``
+```
 
 <br>
 
