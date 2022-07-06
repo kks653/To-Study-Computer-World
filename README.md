@@ -3,7 +3,7 @@
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks653%2FTo-Study-Computer-World&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 <br>
 ![GitHub](https://img.shields.io/github/watchers/kks653/To-Study-Computer-World?style=social)
-<br><br><br>
+<br><br>
 ## :books: 컴퓨터 세상을 공부하는 개발자 백과사전
 
 ---
