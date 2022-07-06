@@ -17,7 +17,7 @@
 - [윈도우즈 시스템 프로그래밍(TBU)](ComputerScience/OperatingSystem/WindowsSystemProgramming/README.md)
 
 ### <b>[Database](ComputerScience/Database/README.md)</b>
-- [redis(TBU)](ComputerScience/Database/redis/README.md)
+- [redis](ComputerScience/Database/redis/README.md)
 
 
 <!--
