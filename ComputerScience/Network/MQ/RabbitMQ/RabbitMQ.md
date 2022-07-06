@@ -16,7 +16,7 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 멀티 클라우드 및 컨테이너화된 환경을 갖춘 조직의 경우 미들웨어를 사용하면 스케일에 따라 
 비용 효율적으로 애플리케이션을 개발하고 실행할 수 있습니다.
 
-- Red Hat에서 발췌
+- Red Hat; Reference [1]
 ```
 
 <br>
@@ -153,8 +153,9 @@ Receiving messages based on a pattern
 
 ### **References**
 
-*Rabbitmq tutorials*. RabbitMQ. (n.d.). Retrieved July 4, 2022, from [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html) 
+[1] 미들웨어(middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. 미들웨어(Middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. (n.d.). Retrieved July 6, 2022, from https://www.redhat.com/ko/topics/middleware/what-is-middleware 
 
-*Wikimedia Foundation.* (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
+[2] *Rabbitmq tutorials*. RabbitMQ. (n.d.). Retrieved July 4, 2022, from [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html) 
 
-미들웨어(middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. 미들웨어(Middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. (n.d.). Retrieved July 6, 2022, from https://www.redhat.com/ko/topics/middleware/what-is-middleware 
+[3] *Wikimedia Foundation.* (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
+
