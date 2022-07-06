@@ -153,9 +153,9 @@ Receiving messages based on a pattern
 
 ### **References**
 
-[1] 미들웨어(middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. 미들웨어(Middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점. (n.d.). Retrieved July 6, 2022, from https://www.redhat.com/ko/topics/middleware/what-is-middleware 
+[1] *미들웨어(Middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점*. (2018, March 21). Retrieved July 6, 2022, from https://www.redhat.com/ko/topics/middleware/what-is-middleware 
 
 [2] *Rabbitmq tutorials*. RabbitMQ. (n.d.). Retrieved July 4, 2022, from [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html) 
 
-[3] *Wikimedia Foundation.* (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
+[3] *Wikimedia Foundation*. (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
 
