@@ -18,6 +18,17 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 
 - Red Hat; Reference [1]
 ```
+```
+미들웨어는 서로 다른 애플리케이션이 서로 통신하는 데 사용되는 소프트웨어입니다.
+ 미들웨어는 더욱 빠르게 혁신할 수 있도록 애플리케이션을 지능적이고 효율적으로 연결하는 기능을 제공합니다. 
+
+ 미들웨어는 단일 시스템에 원활하게 통합할 수 있도록 다양한 기술, 도구, 데이터베이스 간에 다리 역할을 합니다. 
+ 그런 다음 이 단일 시스템은 사용자에게 통합된 서비스를 제공합니다.
+
+ 예를 들어 Windows 프런트엔드 애플리케이션은 Linux 백엔드 서버에서 데이터를 송수신하지만, 애플리케이션 사용자는 그 차이를 인식하지 못합니다.
+
+- AWS; Refrence [2]
+``
 
 <br>
 
@@ -155,7 +166,9 @@ Receiving messages based on a pattern
 
 [1] *미들웨어(Middleware): 개념, 종류, 비교, 구성 요소, 툴, 장점*. (2018, March 21). Retrieved July 6, 2022, from https://www.redhat.com/ko/topics/middleware/what-is-middleware 
 
-[2] *Rabbitmq tutorials*. RabbitMQ. (n.d.). Retrieved July 4, 2022, from [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html) 
+[2] Linden, F. P. G. M. (n.d.). *미들웨어란 무엇인가요?* Amazon. Retrieved July 6, 2022, from https://aws.amazon.com/ko/what-is/middleware/ 
 
-[3] *Wikimedia Foundation*. (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
+[3] *Rabbitmq tutorials*. RabbitMQ. (n.d.). Retrieved July 4, 2022, from [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html) 
+
+[4] *Wikimedia Foundation*. (2022, February 14). *AMQP*. Wikipedia. Retrieved July 4, 2022, from [https://ko.wikipedia.org/wiki/AMQP](https://ko.wikipedia.org/wiki/AMQP)
 
