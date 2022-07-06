@@ -1,2 +1,2 @@
 # :diamonds: redis
-TBU
+- [Redis 개요](introduction.md)
