@@ -1,6 +1,6 @@
 ## RabbitMQ
 
-AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 개방형 표준 응용 계층 프로토콜)로 구현된 Erlang과 Java로 짜여진 메시지 브로커이다. 
+AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 개방형 표준 응용 계층 프로토콜)로 구현된 Erlang과 Java로 짜인 메시지 브로커이다. 
 
 <br>
 
@@ -10,7 +10,7 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 미들웨어는 운영 체제에서 제공하지 않는 일반적인 서비스와 기능을 애플리케이션에 제공하는 소프트웨어입니다. 
 데이터 관리, 애플리케이션 서비스, 메시징, 인증 및 API 관리는 주로 미들웨어를 통해 처리됩니다.
 
-미들웨어는 개발자들이 애플리케이션을 보다 효율적으로 구축할 수 있도록 지원하며 
+미들웨어는 개발자들이 애플리케이션을 더욱 효율적으로 구축할 수 있도록 지원하며 
 애플리케이션, 데이터 및 사용자 사이를 연결하는 요소처럼 작동합니다.
 
 멀티 클라우드 및 컨테이너화된 환경을 갖춘 조직의 경우 미들웨어를 사용하면 스케일에 따라 
@@ -52,7 +52,7 @@ AMQP(Advanced Message Queuing Protocol, 메시지 지향 미들웨어를 위한 
 
 <p align="center"><img src="resources/3.png"><br><em><b>figure 2</b></em></p>
 
-Work(Task) Queues는 여러 workers를 둠으로써 시간이 걸리는 작업들을 분산시킬 수 있다. Task를 스케줄하여 나중에 완료시킬 수 있다. Task를 메시지로 캡슐화하여 queue로 보낸다. 
+Work(Task) Queues는 여러 workers를 둠으로써 시간이 걸리는 작업을 분산시킬 수 있다. Task를 스케줄하여 나중에 완료시킬 수 있다. Task를 메시지로 캡슐화하여 queue로 보낸다. 
 
 <aside>
 💡 이 개념은 특히, 짧은 HTTP 요청 윈도우동안 복잡한 task를 처리할 수 없는 웹 애플리케이션에서 유용하다.

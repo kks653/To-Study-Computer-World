@@ -2,7 +2,7 @@
 
 `Redis`는 C언어로 작성된 Key-Value 기반 In-Memory 데이터 구조 저장 공간으로 속도가 빠르고 데이터베이스, 캐시, 메시지 브로커, 스트리밍 엔진과 같은 역할로 쓰일 수 있다.
 
-리눅스, *BSD, Mac OS X와 같은 거의 모든 POSIX 시스템에서 외부적인 의존없이 작동한다. Redis는 거의 리눅스와 OS X에서 개발 및 테스트 되었고 리눅스에 배포하는 것을 추천한다고 한다. 공식적인 윈도우 빌드 제공은 없다.
+리눅스, *BSD, Mac OS X와 같은 거의 모든 POSIX 시스템에서 외부적인 의존 없이 작동한다. Redis는 거의 리눅스와 OS X에서 개발 및 테스트 되었고 리눅스에 배포하는 것을 추천한다고 한다. 공식적인 윈도우 빌드 제공은 없다.
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-Redis는 [replication](replication.md), Lua scriptiong, LRU eviction, transactions, 그리고 다양한 레벨의 on-disk 지속성을 내장하고 있고 지속적으로 안정적인 운영을 할 수 있는 고가용성(High Availability) Redis Sentinel과 자동으로 파티셔닝을 해주는 Redis Cluster를 내장하고 있다.
+Redis는 [replication](replication.md), Lua scriptiong, LRU eviction, transactions, 그리고 다양한 레벨의 on-disk 지속성을 내장하고 있고 지속해서 안정적인 운영을 할 수 있는 고가용성(High Availability) Redis Sentinel과 자동으로 파티셔닝을 해주는 Redis Cluster를 내장하고 있다.
 
 `Sorted set에서 가장 랭킹이 높은 멤버의 데이터를 가져오는 것`과 같은 작업 타입의 원자 조작(Atomic Operation)이 가능하다. 
 
