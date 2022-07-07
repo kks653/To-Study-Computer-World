@@ -20,7 +20,7 @@
 
 <br>
 
-Redis는 replication, Lua scriptiong, LRU eviction, transactions, 그리고 다양한 레벨의 on-disk 지속성을 내장하고 있고 지속적으로 안정적인 운영을 할 수 있는 고가용성(High Availability) Redis Sentinel과 자동으로 파티셔닝을 해주는 Redis Cluster를 내장하고 있다.
+Redis는 [replication](replication.md), Lua scriptiong, LRU eviction, transactions, 그리고 다양한 레벨의 on-disk 지속성을 내장하고 있고 지속적으로 안정적인 운영을 할 수 있는 고가용성(High Availability) Redis Sentinel과 자동으로 파티셔닝을 해주는 Redis Cluster를 내장하고 있다.
 
 `Sorted set에서 가장 랭킹이 높은 멤버의 데이터를 가져오는 것`과 같은 작업 타입의 원자 조작(Atomic Operation)이 가능하다. 
 
