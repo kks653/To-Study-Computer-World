@@ -37,7 +37,7 @@ Redis는 replication, Lua scriptiong, LRU eviction, transactions, 그리고 다�
 Redis는 또한 다음을 포함하고 있다:
 - Pub/Sub(Public/Subscribe 메시징 패러다임) -> 작성해둔 [Message Queue의 문서](../../Network/MQ/MessageQueue/MessageQueue.md) 내용을 참조하면 좋다.
 - Keys with a limited time to live(TTL, 컴퓨터나 네트워크에서 데이터의 유효 기간)
-- 자동 시스템 대체 작동 기능(Redis Sentinel 기능 중 하나)
+- 페일오버(failover, 장애 극복 기능; Redis Sentinel 기능 중 하나)
 
 <br>
 
