@@ -1,4 +1,4 @@
-# :bookmark_tabs: **Redis transactions**
+# :bookmark_tabs: **Redis Transactions**
 
 Redis Transactions(이하 Transactions)는 명령어 그룹을 한 번에 처리할 수 있도록 해준다.
 
@@ -62,7 +62,7 @@ EXEC
 
 위와 같이 사용하면, 경쟁 상태(race condition)가 발생하고  `WATCH`와 `EXEC`의 호출 사이에 다른 클라이언트가 val의 결과를 변경한다면 그 트랜잭션은 실패하게 된다.
 
-간단하게 이 작업을 경쟁 상태에 놓이지 않기를 바라며 반복하면 된다. 이런 식의 락킹(locking)을 일컬어 `optimistic locking(낙관적 락킹)`이라 한다. 
+간단하게 이 작업을 경쟁 상태에 놓이지 않기를 바라며 반복하면 된다. 이런 식의 락킹(locking)을 일컬어 `optimistic locking(낙관적 락킹)`이라 한다.
 
 
 <br>
