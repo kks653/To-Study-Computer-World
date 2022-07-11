@@ -1,3 +1,4 @@
 # :diamonds: redis
 - [Redis 개론](introduction.md)
-- [Redis replication](replication.md)
+- [Redis Replication](replication.md)
+- [Redis Transactions](transactions.md)
