@@ -12,7 +12,7 @@ Redis Replication(복제)의 기본적인 특성을 알아본다. 이후 이를 
 
 <br>
 
-Redis replication의 몇 가지 중요한 사실이 있다.
+Redis replication의 몇 가지 중요한 사실:
  - 복제는 비동기로 작동한다(by default).
  - 마스터는 여러 개의 레플리카를 가질 수 있다.
  - 레플리카는 다른 레플리카의 연결을 승인할 수 있다.
