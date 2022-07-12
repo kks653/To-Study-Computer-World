@@ -1,4 +1,4 @@
-# :bookmark_tabs: **Redis Transactions**
+# :bookmark_tabs: **Redis 트랜잭션(Transactions)**
 
 Redis Transactions(이하 Transactions)는 명령어 그룹을 한 번에 처리할 수 있도록 해준다.
 

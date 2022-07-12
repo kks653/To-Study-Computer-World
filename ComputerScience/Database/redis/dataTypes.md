@@ -1,4 +1,4 @@
-# :ringed_planet: **Redis Data Types(자료형)** 
+# :ringed_planet: **Redis 자료형(Data Types)** 
 
 Redis는 단순히 key-value 저장소가 아니고 다양한 자료를 지원하는 자료 구조 서버이다. 기존에 있던 key-value 저장소들은 string key를 string value와 연관지어 사용해왔지만, redis에서는 value가 단지 string에 국한되지 않고 더 복잡한 자료 구조를 가질 수 있다.
 
@@ -13,7 +13,7 @@ Redis는 단순히 key-value 저장소가 아니고 다양한 자료를 지원�
 
 
 ### Keys
-Binary-safe라고 하면 어떠한 binary sequence라도 key가 될 수 있다는 것이다. 예를 들어, "foo"와 같은 string(문자열)부터 JPEG 파일까지 key가 될 수있다. 공백도 유효한 key가 될 수 있다(가능하지만 하지 않은 걸로...).
+Binary-safe라고 하면 어떠한 binary sequence라도 key가 될 수 있다는 것이다. 예를 들어, "foo"와 같은 문자열(string)부터 JPEG 파일까지 key가 될 수있다. 공백도 유효한 key가 될 수 있다(가능하지만 하지 않은 걸로...).
 
 Key에 대한 또 다른 규칙:
 - 너무 긴 길이의 key는 좋지 않다. 예를 들어, 1024바이트에 달하는 key는 메모리 측면에서도 좋지 않고 데이터셋의 key 검색을 할 때에도 key를 비교하는 큰 비용이 요구될 수 있다. 

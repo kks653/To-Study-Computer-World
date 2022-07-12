@@ -1,4 +1,4 @@
-# :floppy_disk: **Redis Replication**
+# :floppy_disk: **Redis 복제(Replication)**
 
 Redis Replication(복제)의 기본적인 특성을 알아본다. 이후 이를 통해 어떻게 고가용성 확보와 페일오버(failover, 장애 극복) 기능을 가지는지 알아볼 수 있다.
 
