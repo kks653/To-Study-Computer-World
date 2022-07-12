@@ -1,4 +1,4 @@
-# :footprints: **Redis Sentinel**
+# :footprints: **Redis Cluster**
 
 TBU
 
