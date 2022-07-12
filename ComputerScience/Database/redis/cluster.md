@@ -1,4 +1,4 @@
-# :bookmark_tabs: **Redis Sentinel**
+# :footprints: **Redis Sentinel**
 
 TBU
 

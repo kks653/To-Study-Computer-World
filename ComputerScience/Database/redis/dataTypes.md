@@ -1,4 +1,4 @@
-# :oil_drum: **Redis Data Types** 
+# :ringed_planet: **Redis Data Types(자료형)** 
 
 Redis는 단순히 key-value 저장소가 아니고 다양한 자료를 지원하는 자료 구조 서버이다. 기존에 있던 key-value 저장소들은 string key를 string value와 연관지어 사용해왔지만, redis에서는 value가 단지 string에 국한되지 않고 더 복잡한 자료 구조를 가질 수 있다.
 
