@@ -3,3 +3,4 @@
 - [Redis Replication](replication.md)
 - [Redis Transactions](transactions.md)
 - [Redis Sentinel](sentinel.md)
+- [Redis Data Types](dataTypes.md)
