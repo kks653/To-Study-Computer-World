@@ -18,6 +18,8 @@
 - Geospatial indexes
 - Streams
 
+[:mag_right: 10분만에 보는 자료 구조 튜토리얼](dataTypes.md)
+
 <br>
 
 Redis는 [replication](replication.md), Lua scriptiong, LRU eviction, [transactions](transactions.md), 그리고 다양한 레벨의 on-disk 지속성을 내장하고 있고 지속해서 안정적인 운영을 할 수 있는 고가용성(High Availability) Redis Sentinel과 자동으로 파티셔닝을 해주는 Redis Cluster를 내장하고 있다.
