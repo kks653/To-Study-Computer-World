@@ -1,6 +1,6 @@
 # :floppy_disk: **Redis 복제(Replication)**
 
-Redis Replication(복제)의 기본적인 특성을 알아본다. 이후 이를 통해 어떻게 고가용성 확보와 페일오버(failover, 장애 극복) 기능을 가지는지 알아볼 수 있다.
+Redis 복제(Replication)의 기본적인 특성을 알아본다. 이후 이를 통해 어떻게 고가용성 확보와 페일오버(failover, 장애 극복) 기능을 가지는지 알아볼 수 있다.
 
 기본적으로 리더 팔로워(leader follower)라는 마스터 개체를 완전히 똑같이 복제하는 마스터 레플리카(master-replica)를 허용한다.
 
