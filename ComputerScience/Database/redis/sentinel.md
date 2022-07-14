@@ -1,4 +1,4 @@
-# :eyes: **Redis Sentinel**
+# :eyes: **Redis 센티넬(Sentinel)**
 
 Redis Sentinel(이하 Sentinel)은 Redis Cluster를 사용하지 않을 때 고가용성(안정성 UP)을 제공한다.
 
