@@ -5,4 +5,4 @@
 - [Redis 복제(Replication)](replication.md)
 - [Redis 센티넬(Sentinel)](sentinel.md)
 - [Redis 클러스터(Cluster)](cluster.md)
-- [Redis .NET 연동 가이드]
+- [Redis .NET 연동 가이드](instruction.md)
