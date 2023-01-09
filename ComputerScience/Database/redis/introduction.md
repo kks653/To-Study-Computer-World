@@ -18,7 +18,7 @@
 - Geospatial indexes
 - Streams
 
-[:mag_right: 10분만에 보는 자료 구조 튜토리얼](dataTypes.md)
+[:mag_right: 10분만에 보는 Redis 자료 구조 튜토리얼](dataTypes.md)
 
 <br>
 
