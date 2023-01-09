@@ -14,7 +14,7 @@
 - [Message Queuing](ComputerScience/Network/MQ/README.md)
 
 ### <b>[Database](ComputerScience/Database/README.md)</b>
-- [ORM](ComputerScience/Database/ORM(Object Relational Mapping)/README.md)
+- [ORM(Object-Relational-Mapping)](ComputerScience/Database/ORM(Object-Relational-Mapping)/README.md)
 - [Redis](ComputerScience/Database/Redis/README.md)
 
 ### <b>[Operating System](ComputerScience/OperatingSystem/README.md)</b>
