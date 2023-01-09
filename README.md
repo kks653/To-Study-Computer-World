@@ -14,7 +14,8 @@
 - [Message Queuing](ComputerScience/Network/MQ/README.md)
 
 ### <b>[Database](ComputerScience/Database/README.md)</b>
-- [redis](ComputerScience/Database/redis/README.md)
+- [ORM](ComputerScience/Database/ORM/README.md)
+- [Redis](ComputerScience/Database/Redis/README.md)
 
 ### <b>[Operating System](ComputerScience/OperatingSystem/README.md)</b>
 - [윈도우즈 시스템 프로그래밍(TBU)](ComputerScience/OperatingSystem/WindowsSystemProgramming/README.md)
