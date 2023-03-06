@@ -65,6 +65,7 @@ socket 함수의 두 번째 인자로 `SOCK_STREAM`을 전달하면 ‘연결지
 </aside>
 
 <br>
+<br>
 
 > **소켓의 타입 2: 비 연결지향형 소켓(SOCK_DGRAM)**
 > 
