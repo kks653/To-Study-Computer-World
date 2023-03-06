@@ -33,8 +33,6 @@ int socket(int domain, int type, int protocol); // 성공 시 파일 디스크�
 | PF_PACKET | Low Level 소켓을 위한 프로토콜 체계 |
 | PF_IPX | IPX 노벨 프로토콜 체계 |
 
-헤더파일 sys/socket.h에 선언된 프로토콜 체계
-
 <br>
 
 ### 소켓의 타입(Type)
