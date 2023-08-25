@@ -70,7 +70,7 @@ Work(Task) Queue를 이용하는 장점들 중 하나는 일을 쉽게 병렬 �
 > **Message acknowledgment**
 > 
 
-Consumer가 메시지를 가져가는 처리 작업 도중에 죽거나 할 때, 메시지를 잃지 않기 위해 RabbitMQ는 message acknowledgments라는 것을 제공한다. Consumer는처리 완료된 특정 메시지를 지워도 된다는 ack를 RabbitMQ에게 다시 보내어 메시지를 잃는 상황을 방지한다. 
+Consumer가 메시지를 가져가는 처리 작업 도중에 죽거나 할 때, 메시지를 잃지 않기 위해 RabbitMQ는 message acknowledgments라는 것을 제공한다. Consumer는 처리 완료된 특정 메시지를 지워도 된다는 ack를 RabbitMQ에게 다시 보내어 메시지를 잃는 상황을 방지한다. 
 
 만약 consumer가 ack를 보내기 전에 처리 도중 연결이 끊긴다면, RabbitMQ는 메시지가 제대로 처리되지 않음을 인지하고 다시 queue에 쌓아 consumer에게 전달될 수 있도록 한다.
 
