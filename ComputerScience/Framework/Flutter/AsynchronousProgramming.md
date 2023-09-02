@@ -1,5 +1,5 @@
 # **Future**
-> version: Flutter 3.13.1
+> Based on version: Flutter 3.13.1
 
 
 ### aync/await 그리고 Future
@@ -43,7 +43,7 @@ void _onTapComments(BuildContext context) async {
   }
 ```
 
-댓글 창을 여는 순간 영상이 재생되고 있다면 정지시키고 창을 닫으면 다시 재개해주는 건 Future, async/await 덕분이다. 창이 닫힐 때까지 await 하였다가 닫히면 재생/정지 토글 함수가 호출되면서 영상이 재개된다. 이렇게 프로그램의 흐름을 블로킹하지 않고 완료될 때까지 기다리지 않고 결과 값이 나오면 **비동기적으로** 후처리가 진행된다.
+댓글 창을 여는 순간 영상이 재생되고 있다면 정지시키고 창을 닫으면 다시 재개해주는 건 Future, async/await 덕분이다. 창이 닫힐 때까지 await 하였다가 닫히면 재생/정지 토글 함수가 호출되면서 영상이 재개된다. 이렇게 프로그램의 흐름을 블로킹하지 않고(논-블로킹) 완료될 때까지 기다리지 않고 미래9(Future)에 결과 값이 나오면 **비동기적으로** 후처리가 진행된다.
 
 #### Error checking
 
